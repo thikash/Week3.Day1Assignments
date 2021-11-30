@@ -1,5 +1,5 @@
 package assignmentweek3day1;
-
+//parent Class
 public class BankInfo extends AxisBank{
 	public void saving() {
 		System.out.println("Saving Account");
